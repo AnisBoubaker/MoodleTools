@@ -1,0 +1,31 @@
+span.easy {
+  height: 20px;
+  width: 20px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+span.medium {
+  height: 20px;
+  width: 20px;
+  background-color: yellow;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+span.hard {
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+span.extend {
+  height: 20px;
+  width: 20px;
+  background-color: orange;
+  border-radius: 50%;
+  display: inline-block;
+}
